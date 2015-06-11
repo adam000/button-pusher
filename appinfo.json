@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "adamh.zero@gmail.com",
+    "longName": "Button Pusher",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Button Pusher",
+    "uuid": "47a2554a-fc51-4c6a-b222-a4a1d75aa803",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
