@@ -1,5 +1,4 @@
 #include <pebble.h>
-#include <stdio.h>
 
 Window *window;
 TextLayer *text_layer;
